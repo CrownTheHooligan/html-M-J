@@ -1,0 +1,47 @@
+body {
+    background-color: pink;
+}
+
+.header1  {
+    color: whitesmoke;
+    font-family: cursive;
+    text-align: center;
+}
+
+.centerMJ{
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
+    width: auto;
+   
+}
+
+h2 {
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+h3{
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+p {
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+.container {
+    display: flex;
+    align-items: 10px;
+}
+
+.image {
+    margin-right: 10px; /* Space between the image and the text */
+}
+
+.imgBW{
+    height: 300px;
+    display: block;
+    margin: auto;
+}
